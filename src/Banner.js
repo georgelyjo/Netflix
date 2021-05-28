@@ -22,12 +22,12 @@ function Banner() {
       className="banner"
     >
       <div className="content">
-        <h1 className="title">{movie ? movie.title : ''}</h1>
+        <h1 className="title"><b>{movie ? movie.title : ''}</b></h1>
         <div className="banner_button">
           <button className="button">Play</button>
           <button className="button">My list</button>
         </div>
-        <h1 className="description">{movie ? movie.overview : ''}</h1>
+        <h1 className="description"><b>{movie ? movie.overview : ''}</b></h1>
       </div>
       <div className="fade_bottom" />
     </div>
