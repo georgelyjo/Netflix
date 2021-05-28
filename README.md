@@ -6,7 +6,7 @@
 Use your own api key . You can get one from tmdb</br>
 Font family may not work if you are hosting in gh-pages.
 
-https://react-avcoas.stackblitz.io/ 
+https://georgelyjo.github.io/Netflix/
 
 </br>
 <b>npm modules</b>
